@@ -18,8 +18,19 @@ html {
 
 }
 
-#process h2 {
+#process p {
 	font-family:Helvetica;
 	font-size: 32px;
 	font-weight: bold;
+}
+
+#work #identify {
+	font-family: Helvetica;
+	font-size: 23px;
+	font-weight: bold;
+}
+
+#work p {
+	font-family: Helvetica;
+	font-size: 14px;
 }
