@@ -24,13 +24,21 @@ html {
 	font-weight: bold;
 }
 
-#work #identify {
+#subhead {
 	font-family: Helvetica;
 	font-size: 23px;
 	font-weight: bold;
 }
 
-#work p {
+#text {
 	font-family: Helvetica;
 	font-size: 14px;
+}
+
+#subheader {
+	font-family: Helvetica;
+	font-size: 23px;
+	font-weight: bold;
+	color: white;
+	background-image: url(../images/the-flatiron-building.png);
 }
