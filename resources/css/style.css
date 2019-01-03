@@ -2,7 +2,7 @@ html {
 	text-align: center;
 }
 
-#header {
+#header, #subheader, #footer {
 	font-family: Helvetica;
 	color: white;
 	background-image: url(../images/the-flatiron-building.png);
@@ -36,9 +36,14 @@ html {
 }
 
 #subheader {
-	font-family: Helvetica;
+	
 	font-size: 23px;
 	font-weight: bold;
-	color: white;
-	background-image: url(../images/the-flatiron-building.png);
+	
+}
+
+#footer {
+	font-size: 11px;
+	background-color: dimgray;
+	text-align: left;
 }
